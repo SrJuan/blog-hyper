@@ -4,4 +4,6 @@ Además voy a tener mucho éxito en mi carrera como ingeniero devops o SRE.
 
 Master 1
 
+Master 2
+
 Este tipo de cosas parecen interesantes para poder aprender mucho más y ser un gran desarollador. Agrego cambios para recordar cómo funcionan los comandos de git.
